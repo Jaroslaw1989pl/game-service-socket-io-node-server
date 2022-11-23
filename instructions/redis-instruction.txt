@@ -1,0 +1,3 @@
+1. Redis instalation: $ sudo apt-get install redis
+2a. Start Redis server: $ redis-server
+2b. Stop Redis server: $ service redis-server stop
